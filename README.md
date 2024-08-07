@@ -1,4 +1,4 @@
-<img src="Pics/Header.png" width="696" height="433">
+<img src="Pics/Header.png" width="748" height="165">
 
 # Challenge #5 – Pymaceuticals Inc.
 The task of this challenge was to complete the data analysis on a series of drug regimens to treat Squamous Cell Carcinoma (SCC) which is a form of skin cancer.  Pymaceuticals Inc. has a drug of interest for this treatment called Capomulin and a study was conducted to see how Capomulin performed against other SCC drug options.  249 mice with SCC tumors received a range of drug regimens to examine the effects the drugs had on their SCC tumor size.  The drugs being examined in the study included: 
