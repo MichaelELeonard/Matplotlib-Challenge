@@ -1,4 +1,4 @@
-<img src="Pics/Header.png" width="748" height="165">
+<img src="Pics/Header.png" width="696" height="433">
 
 # Challenge #5 – Pymaceuticals Inc.
 The task of this challenge was to complete the data analysis on a series of drug regimens to treat Squamous Cell Carcinoma (SCC) which is a form of skin cancer.  Pymaceuticals Inc. has a drug of interest for this treatment called Capomulin and a study was conducted to see how Capomulin performed against other SCC drug options.  249 mice with SCC tumors received a range of drug regimens to examine the effects the drugs had on their SCC tumor size.  The drugs being examined in the study included: 
@@ -18,37 +18,49 @@ The first task in the process was to prepare the data for analysis.  Two DataFra
 
 ## SUMMERY STATISTICS
 Overall summary statistics were then calculated examining the Mean, Median, Variance, Standard Deviation & Standard Error of Measurement of all the drug regimens in the trial.
- 
+<img src="Pics/tumor_summary.png" width="900" height="298">
+
+
 This chart was then replicated utilizing the aggregation method.  
- 
+<img src="Pics/tumor_summary_aggerate.png" width="473" height="296">
+
+
 
 ## BAR & PIE CHARTS
 The “clean_mice_df” was again utilized to provide information for the next set for charts.  A bar chart was created to examine Mouse ID/Timeplots for each drug regimen.  This chart was created using both Panda and pyplot.     
- 
+
+<img src="Pics/bar plot.png" width="475" height="408">
+
+
 A Pie Plot was also created showing the Female vs. Male mice count utilized in the study.  This chart was also created using Pandas and pyplot.
- 
+
+<img src="Pics/pie plot.png" width="377" height="339">
+
+
 ## QUARTILES, OUTLIERS & BOXPLOTS
 The study data was then prepared to examine and the results of Capomulin Ramicane Infubinol
 and Ceftamin in more detail.  The results from the clean_mice_df was isolated by drug type and the largest timepoint for each drug was identified to compare results.   This final tumor data was then merged with the existing drug DateFrame for further analysis.  This data was prepared for Boxplots by identifying the data quartiles for each drug dataset.  A Boxplot graph was created for the four drugs for examination.
 
- 
+
+<img src="Pics/box plot.png" width="469" height="377">
+
+
 
 ## LINE AND SCATTER PLOTS
 For the final analysis, the results of Capmulin were singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
 
+<img src="Pics/line plot.png" width="467" height="377">
+
+<img src="Pics/scatter plot.png" width="467" height="377">
 
 
 
 
-
-
-
-
-
- 
 ## CORRELATION AND REGRESSION
 Finally, a Correlation and Regression line was added to the Scatter Plot to fully highlight the correlation and regression relationship between SCC tumor size vs. the weight of the mice.
- 
+
+<img src="Pics/linear regression.png" width="467" height="376">
+
 
 
 ## RESULTS
