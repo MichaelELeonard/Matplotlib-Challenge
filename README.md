@@ -18,6 +18,8 @@ The first task in the process was to prepare the data for analysis.  Two DataFra
 <br>
 <img src="Pics/mice_count.png" width="468" height="157">
 <img src="Pics/clean_mice_count.png" width="471" height="134">
+<br>
+
 
 
 ## SUMMERY STATISTICS
@@ -29,6 +31,7 @@ Overall summary statistics were then calculated examining the Mean, Median, Vari
 This chart was then replicated utilizing the aggregation method.  
 <br>
 <img src="Pics/tumor_summary_aggerate.png" width="473" height="296">
+<br>
 
 
 
@@ -41,30 +44,30 @@ The “clean_mice_df” was again utilized to provide information for the next s
 A Pie Plot was also created showing the Female vs. Male mice count utilized in the study.  This chart was also created using Pandas and pyplot.
 <br>
 <img src="Pics/pie plot.png" width="377" height="339">
-
+<br>
 
 ## QUARTILES, OUTLIERS & BOXPLOTS
 The study data was then prepared to examine and the results of Capomulin Ramicane Infubinol
 and Ceftamin in more detail.  The results from the clean_mice_df was isolated by drug type and the largest timepoint for each drug was identified to compare results.   This final tumor data was then merged with the existing drug DateFrame for further analysis.  This data was prepared for Boxplots by identifying the data quartiles for each drug dataset.  A Boxplot graph was created for the four drugs for examination.
 <br>
 <img src="Pics/box plot.png" width="469" height="377">
-
+<br>
 
 
 ## LINE AND SCATTER PLOTS
 For the final analysis, the results of Capmulin were singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <img src="Pics/line plot.png" width="467" height="377">
-
 <img src="Pics/scatter plot.png" width="467" height="377">
-
+<br>
 
 
 
 ## CORRELATION AND REGRESSION
-Finally, a Correlation and Regression line was added to the Scatter Plot to fully highlight the correlation and regression relationship between SCC tumor size vs. the weight of the mice.
+A Correlation and Regression line was added to the Scatter Plot to fully highlight the correlation and regression relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <img src="Pics/linear regression.png" width="467" height="376">
+<br>
 
 
 
