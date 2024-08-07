@@ -13,11 +13,13 @@ The task of this challenge was to complete the data analysis on a series of drug
 * Stelasyn
 * Zoniferol   
 
+<br>
 ## DATA ASSEMBLY AND CLEANING
 The first task in the process was to prepare the data for analysis.  Two DataFrams “mouse_metadata” and ‘study_results’ were merged into one all-encompassing DataFrame ‘mice_data_complete.’  Each unique mouse was counted totaling 249.  A duplicate mouse ID was identified ‘g989’ and its data was isolated for examination.  The duplicate information was removed from the data pool and the information was stored in a new DataFrame “clean_mice_df” and the unique mouse count was again tabulated now totaling 248.      
 <br>
 <img src="Pics/mice_count.png" width="468" height="157">
 <img src="Pics/clean_mice_count.png" width="471" height="134">
+<br>
 <br>
 
 
@@ -32,6 +34,7 @@ This chart was then replicated utilizing the aggregation method.
 <br>
 <img src="Pics/tumor_summary_aggerate.png" width="473" height="296">
 <br>
+<br>
 
 
 
@@ -45,6 +48,7 @@ A Pie Plot was also created showing the Female vs. Male mice count utilized in t
 <br>
 <img src="Pics/pie plot.png" width="377" height="339">
 <br>
+<br>
 
 ## QUARTILES, OUTLIERS & BOXPLOTS
 The study data was then prepared to examine and the results of Capomulin Ramicane Infubinol
@@ -52,7 +56,7 @@ and Ceftamin in more detail.  The results from the clean_mice_df was isolated by
 <br>
 <img src="Pics/box plot.png" width="469" height="377">
 <br>
-
+<br>
 
 ## LINE AND SCATTER PLOTS
 For the final analysis, the results of Capmulin were singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
@@ -60,13 +64,14 @@ For the final analysis, the results of Capmulin were singularly examined.  A Lin
 <img src="Pics/line plot.png" width="467" height="377">
 <img src="Pics/scatter plot.png" width="467" height="377">
 <br>
-
+<br>
 
 
 ## CORRELATION AND REGRESSION
 A Correlation and Regression line was added to the Scatter Plot to fully highlight the correlation and regression relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <img src="Pics/linear regression.png" width="467" height="376">
+<br>
 <br>
 
 
