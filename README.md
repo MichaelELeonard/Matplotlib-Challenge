@@ -20,9 +20,6 @@ The first task in the process was to prepare the data for analysis.  Two DataFra
 <img src="Pics/mice_count.png" width="468" height="157">
 <img src="Pics/clean_mice_count.png" width="471" height="134">
 <br>
-<br>
-
-
 
 ## SUMMERY STATISTICS
 Overall summary statistics were then calculated examining the Mean, Median, Variance, Standard Deviation & Standard Error of Measurement of all the drug regimens in the trial.
