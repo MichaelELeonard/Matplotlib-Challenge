@@ -1,4 +1,4 @@
-<img src="Pics/Header.png" width="696" height="433">
+<img src="Pics/Header.png" width="748" height="165">
 
 # Challenge #5 – Pymaceuticals Inc.
 The task of this challenge was to complete the data analysis on a series of drug regimens to treat Squamous Cell Carcinoma (SCC) which is a form of skin cancer.  Pymaceuticals Inc. has a drug of interest for this treatment called Capomulin and a study was conducted to see how Capomulin performed against other SCC drug options.  249 mice with SCC tumors received a range of drug regimens to examine the effects the drugs had on their SCC tumor size.  The drugs being examined in the study included: 
@@ -15,6 +15,9 @@ The task of this challenge was to complete the data analysis on a series of drug
 
 ## DATA ASSEMBLY AND CLEANING
 The first task in the process was to prepare the data for analysis.  Two DataFrams “mouse_metadata” and ‘study_results’ were merged into one all-encompassing DataFrame ‘mice_data_complete.’  Each unique mouse was counted totaling 249.  A duplicate mouse ID was identified ‘g989’ and its data was isolated for examination.  The duplicate information was removed from the data pool and the information was stored in a new DataFrame “clean_mice_df” and the unique mouse count was again tabulated now totaling 248.      
+
+<img src="Pics/duplicate_mice_id_data.png" width="824" height="351">
+<img src="Pics/clean_mice_df.png" width="795" height="154">
 
 ## SUMMERY STATISTICS
 Overall summary statistics were then calculated examining the Mean, Median, Variance, Standard Deviation & Standard Error of Measurement of all the drug regimens in the trial.
