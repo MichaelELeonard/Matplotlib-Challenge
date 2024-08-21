@@ -60,7 +60,7 @@ and Ceftamin in more detail.  The results from the clean_mice_df was isolated by
 <br>
 
 ## LINE AND SCATTER PLOTS
-For the final analysis, the results of Capmulin were singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
+For the final analysis, the results of Capmulin was singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <br>
 <img src="Pics/line plot.png" width="467" height="377">
