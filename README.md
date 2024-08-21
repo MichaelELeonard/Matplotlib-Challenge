@@ -1,6 +1,6 @@
 <img src="Pics/Header.png" width="748" height="165">
 
-# Challenge #5 – Pymaceuticals Inc.
+# Pymaceuticals Inc.
 
 ##### Link to pymaceuticals-challenge code - https://github.com/MichaelELeonard/pymaceuticals-challenge/blob/main/pymaceuticals_working.ipynb
 <br>
