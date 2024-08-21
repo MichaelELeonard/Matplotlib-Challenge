@@ -24,7 +24,7 @@ The first task in the process was to prepare the data for analysis.  Two DataFra
 <br>
 
 ## SUMMERY STATISTICS
-Overall summary statistics were then calculated examining the Mean, Median, Variance, Standard Deviation & Standard Error of Measurement of all the drug regimens in the trial.
+Overall summary statistics were then calculated examining the mean, median, variance, standard deviation & standard error of measurement of all the drug regimens in the trial.
 
 <br>
 <img src="Pics/tumor_summary.png" width="900" height="298">
