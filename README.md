@@ -50,7 +50,6 @@ A Pie Plot was also created showing the Female vs. Male mice count utilized in t
 <br>
 
 <img src="Pics/pie plot.png" width="337" height="339">
-<br>
 
 ## QUARTILES, OUTLIERS & BOXPLOTS
 The study data was then prepared to examine and the results of Capomulin Ramicane Infubinol
