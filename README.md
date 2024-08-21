@@ -30,7 +30,7 @@ Overall summary statistics were then calculated examining the mean, median, vari
 <img src="Pics/tumor_summary.png" width="900" height="298">
 
 
-This chart was then replicated utilizing the aggregation method.  
+These results were then replicated utilizing the aggregation method.  
 <br>
 <img src="Pics/tumor_summary_aggerate.png" width="473" height="296">
 <br>
