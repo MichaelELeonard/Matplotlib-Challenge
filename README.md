@@ -49,7 +49,7 @@ The “clean_mice_df” was utilized to provide information for the next set for
 
 A Pie Plot was also created showing the Female vs. Male mice count utilized in the study.  This chart was also created using Pandas and pyplot.
 <br>
-<img src="Pics/pie plot.png" width="377" height="339">
+<img src="Pics/pie plot.png" width="337" height="339">
 <br>
 <br>
 
