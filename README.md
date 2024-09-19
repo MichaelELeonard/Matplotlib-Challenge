@@ -19,7 +19,6 @@ The task of this challenge was to complete the data analysis on a drug regimen t
 
 ## DATA ASSEMBLY AND CLEANING
 The first step in the process was to prepare and clean the data for analysis.  Two dataframes ‘mouse_metadata’ and ‘study_results’ were merged into a single dataframe ‘mice_data_complete.’  Each unique mouse was counted totaling 249.  A duplicate mouse ID ‘g989’ was identified and its data was removed from the data pool, so after cleaning the data the unique mouse count totaled 248.    
-<br>  
 <img src="Pics/mice_count.png" width="468" height="157">
 <br>  
 <img src="Pics/clean_mice_count.png" width="471" height="134">
