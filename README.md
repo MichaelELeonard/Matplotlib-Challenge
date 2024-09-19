@@ -2,7 +2,7 @@
 
 # Pymaceuticals Inc.
 
-##### Link to pymaceuticals-challenge code - https://github.com/MichaelELeonard/pymaceuticals-challenge/blob/main/pymaceuticals_working.ipynb
+##### Link to Matplotlib-Challenge code - https://github.com/MichaelELeonard/Matplotlib-Challenge/blob/main/pymaceuticals_working.ipynb
 <br>
 
 The task of this challenge was to complete the data analysis on a series of drug regimens to treat Squamous Cell Carcinoma (SCC) which is a form of skin cancer.  Pymaceuticals Inc. has a drug of interest for this treatment called Capomulin and a study was conducted to see how Capomulin performed against other SCC drug options.  249 mice with SCC tumors received a range of drug regimens to examine the effects the drugs had on their SCC tumor size.  The drugs being examined in the study included: 
