@@ -46,7 +46,7 @@ The cleaned dataframe was utilized to provide information for the next set for c
 <img src="Pics/bar plot.png" width="475" height="408">
 
 
-A Pie Plot was also created showing the Female vs. Male mice count utilized in the study.  This chart was also created using Pandas and pyplot.
+A pie chart was also created showing the Female vs. Male mice count utilized in the study.  This chart was also created using Pandas and pyplot.
 <br>
 
 <img src="Pics/pie plot.png" width="337" height="339">
