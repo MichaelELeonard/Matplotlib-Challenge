@@ -70,7 +70,7 @@ For the final analysis, Capmulin was specifically examined.  A line plot was con
 
 
 ## Correlation and Regression
-A correlation and regression line was added to the scatter plot to fully highlight the relationship between SCC tumor size vs. the weight of the mice.
+A correlation and regression line was added to the scatter plot to highlight the relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <br>
 <img src="Pics/linear regression.png" width="467" height="376">
