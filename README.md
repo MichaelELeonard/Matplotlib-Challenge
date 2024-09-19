@@ -41,7 +41,7 @@ These results were also replicated utilizing the aggregation method.
 
 
 ## BAR & PIE CHARTS
-The cleaned dataframe was utilized to provide information for the next set for charts.  A bar chart was created to examine Mouse ID/Timeplots for each drug regimen.  This chart was created using both Pandas and pyplot.     
+The cleaned dataframe was utilized to provide information for the next set of charts.  A bar chart was created to examine Mouse ID/Timeplots for each drug regimen.  This chart was created using both Pandas and pyplot.     
 <br>
 <img src="Pics/bar plot.png" width="475" height="408">
 
@@ -52,7 +52,7 @@ A pie chart was also created showing the Female vs. Male mice count utilized in 
 <img src="Pics/pie plot.png" width="337" height="339">
 
 ## QUARTILES, OUTLIERS & BOXPLOTS
-The specific results of Capomulin, Ramicane, Infubinol, and Ceftamin were isolated for further exploration.  A Boxplot graph was utilized to examine the four drugs.
+The specific results of Capomulin, Ramicane, Infubinol, and Ceftamin were isolated for further exploration.  A boxplot graph was utilized to examine the four drugs.
 <br>
 <br>
 <img src="Pics/box plot.png" width="469" height="377">
@@ -60,7 +60,7 @@ The specific results of Capomulin, Ramicane, Infubinol, and Ceftamin were isolat
 <br>
 
 ## LINE AND SCATTER PLOTS
-For the final analysis, the results of Capmulin was singularly examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
+For the final analysis, Capmulin was specifically examined.  A Line Plot was constructed to examine the SCC tumor size vs. the day point in the study and a Scatter Plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <br>
 <img src="Pics/line plot.png" width="467" height="377">
