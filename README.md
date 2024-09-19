@@ -41,7 +41,7 @@ These results were also replicated utilizing the aggregation method.
 
 
 ## BAR & PIE CHARTS
-The “clean_mice_df” was utilized to provide information for the next set for charts.  A bar chart was created to examine Mouse ID/Timeplots for each drug regimen.  This chart was created using both Pandas and pyplot.     
+The cleaned dataframe was utilized to provide information for the next set for charts.  A bar chart was created to examine Mouse ID/Timeplots for each drug regimen.  This chart was created using both Pandas and pyplot.     
 <br>
 <img src="Pics/bar plot.png" width="475" height="408">
 
