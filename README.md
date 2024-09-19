@@ -52,8 +52,7 @@ A pie chart was also created showing the Female vs. Male mice count utilized in 
 <img src="Pics/pie plot.png" width="337" height="339">
 
 ## QUARTILES, OUTLIERS & BOXPLOTS
-The data was then prepared to examine the specific results of Capomulin, Ramicane, Infubinol,
-and Ceftamin.  This data was prepared for Boxplots by identifying the quartiles for each drug dataset.  A Boxplot graph was created for examination.
+The specific results of Capomulin, Ramicane, Infubinol, and Ceftamin were isolated for further exploration.  A Boxplot graph was utilized to examine the four drugs.
 <br>
 <br>
 <img src="Pics/box plot.png" width="469" height="377">
