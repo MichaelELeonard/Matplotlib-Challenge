@@ -60,7 +60,7 @@ The specific results of Capomulin, Ramicane, Infubinol, and Ceftamin were isolat
 <br>
 
 ## Line and Scatter Plots
-For the final analysis, Capmulin was specifically examined.  A line plot was constructed to examine the SCC tumor size vs. the day point in the study and a scatter plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
+For the final analysis, Capmulin was specifically examined.  A line plot was constructed to examine the SCC tumor size vs. the timepoint in the study, and a scatter plot was used to show the relationship between SCC tumor size vs. the weight of the mice.
 <br>
 <br>
 <img src="Pics/line plot.png" width="467" height="377">
