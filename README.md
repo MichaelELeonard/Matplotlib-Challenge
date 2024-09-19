@@ -32,7 +32,7 @@ Overall summary statistics were calculated examining the mean, median, variance,
 <img src="Pics/tumor_summary.png" width="904" height="297">
 
 
-These results were then replicated utilizing the aggregation method.  
+These results were also replicated utilizing the aggregation method.  
 <br>
 <img src="Pics/tumor_summary_aggerate.png" width="473" height="296">
 <br>
