@@ -29,7 +29,7 @@ The first step in the process was to prepare and clean the data for analysis.  T
 <br>
 
 ## Summery Statistics
-Overall summary statistics were calculated examining the mean, median, variance, standard deviation & standard error of measurement of all the drug regimens in the trial.
+Overall summary statistics were calculated examining the mean, median, variance, standard deviation & standard error of all the drug regimens in the trial.
 
 <img src="Pics/tumor_summary.png" width="904" height="297">
 
