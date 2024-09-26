@@ -2,7 +2,8 @@
 
 # Pymaceuticals Inc.
 
-Matplotlib-Challenge code - https://github.com/MichaelELeonard/Matplotlib-Challenge/blob/main/pymaceuticals_working.ipynb
+[Matplotlib-Challenge Code Link]( https://github.com/MichaelELeonard/Matplotlib-Challenge/blob/main/pymaceuticals_working.ipynb)
+
 <br>
 
 ## Goal
