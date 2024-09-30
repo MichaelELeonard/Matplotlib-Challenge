@@ -19,7 +19,7 @@ The task of this challenge was to complete the data analysis on a drug regimen t
 * Zoniferol   
 
 ## Data Assembly and Cleaning
-The first step in the process was to prepare and clean the data for analysis.  Two DataFrames ‘mouse_metadata’ and ‘study_results’ were merged into a single dataframe ‘mice_data_complete.’  Each mouse subject was counted totaling 249.  A duplicate mouse ID ‘g989’ was identified and its data was removed from the data pool, so after cleaning the data the unique mouse count totaled 248.    
+The first step in the process was to prepare and clean the data for analysis.  Two DataFrames ‘mouse_metadata’ and ‘study_results’ were merged into a single DataFrame ‘mice_data_complete.’  Each mouse subject was counted totaling 249.  A duplicate mouse ID ‘g989’ was identified and its data was removed from the data pool, so after cleaning the data the unique mouse count totaled 248.    
 <br>  
 <img src="Pics/mice_count.png" width="468" height="157">
 <br>  
